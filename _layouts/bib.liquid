@@ -126,6 +126,9 @@
       {% endif %}
     </div>
 
+    <!-- Spacer to prevent overlap with publication year -->
+    <div class="col-2"></div>
+
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
