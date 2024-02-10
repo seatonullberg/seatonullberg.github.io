@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: My journal articles presented in reverse chronological order.
 nav: true
 nav_order: 2
 ---
