@@ -1,25 +1,25 @@
 "phillpot":
-  - firstname: ["Simon", "Simon R.", "S. R."]
+  - firstname: ["Simon", "Simon R.", "S. R.", "Simon R"]
     url: https://scholar.google.com/citations?user=nK2OtUkAAAAJ&hl=en
 
 "ta":
-  - firstname: ["An", "An T."]
+  - firstname: ["An", "An T.", "An T"]
     url: https://scholar.google.com/citations?user=1HIbWq8AAAAJ&hl=en
 
 "tonks":
-  - firstname: ["Michael", "Michael R."]
+  - firstname: ["Michael", "Michael R.", "Michael R"]
     url: https://scholar.google.com/citations?user=2boea-gAAAAJ&hl=en
 
 "pearce":
-  - firstname: ["Carolyn", "Carolyn I.", "C. I."]
+  - firstname: ["Carolyn", "Carolyn I.", "C. I.", "Carolyn I"]
     url: https://scholar.google.com/citations?user=VqDBRk4AAAAJ&hl=en
 
 "wall":
-  - firstname: ["Nathalie", "Nathalie A."]
+  - firstname: ["Nathalie", "Nathalie A.", "Nathalie A"]
     url: https://scholar.google.com/citations?user=7ZDIWIgAAAAJ&hl=en
 
 "nino":
-  - firstname: ["Juan", "Juan Claudio", "Juan C."]
+  - firstname: ["Juan", "Juan Claudio", "Juan C.", "Juan C"]
     url: https://scholar.google.com/citations?user=r0kTx8gAAAAJ&hl=en
 
 "abdallah":
