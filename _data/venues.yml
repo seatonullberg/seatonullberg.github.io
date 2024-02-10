@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ACS Earth Space Chem.":
+  url: https://pubs.acs.org/journal/aesccq
+  color: "#ff595e"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Comput. Mater. Sci.":
+  url: https://www.sciencedirect.com/journal/computational-materials-science
+  color: "#ffca3a"
+
+"J. Phys. Chem. Solids":
+  url: https://www.sciencedirect.com/journal/journal-of-physics-and-chemistry-of-solids
+  color: "#8ac926"
+
+"Appl. Clay Sci.":
+  url: https://www.sciencedirect.com/journal/applied-clay-science
+  color: "#1982c4"
