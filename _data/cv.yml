@@ -13,24 +13,24 @@
   contents:
     - title: PhD Materials Science and Engineering
       institution: University of Florida, Gainesville, FL
-      year: May 2024
+      year: 2024
       description:
         - Advisor - Prof. Simon R. Phillpot
     - title: MS Materials Science and Engineering
       institution: University of Florida, Gainesville, FL
-      year: December 2021
+      year: 2021
       description:
         - Advisor - Prof. Simon R. Phillpot
     - title: BS Materials Science and Engineering
       institution: University of Florida, Gainesville, FL
-      year: May 2019
+      year: 2019
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: University of Florida
-      year: May 2019 - Present
+      year: 2019 - Present
       description:
         - Train crystal graph neural network models to predict the favorability of Li ordering in novel high entropy oxide cathode materials.
         - Conduct molecular dynamics simulations of flexible clay sheets and branched alkylammonium molecules to assess radionuclide sequestration performance for nuclear waste applications.
@@ -38,7 +38,7 @@
         - Develop custom plotting and analysis tools with Python capable of running in parallel on a high performance computing cluster.
     - title: Undergraduate Research Assistant
       institution: University of Florida
-      year: December 2017 - May 2019
+      year: 2017 - 2019
       description:
         - Validate ensembles of empirical potentials generated using a novel evolutionary algorithm approach to multiobjective optimization.
         - Create and deploy interactive data visualization applications to enable rapid iteration on design decisions and accelerate research progress.
@@ -64,7 +64,7 @@
 - title: Hobbies
   type: list
   contents:
-    - Vintage motorcycle maintenance
+    - Vintage motorcycle restoration
     - Kayaking / Fishing
     - Surfing
     - Cycling
