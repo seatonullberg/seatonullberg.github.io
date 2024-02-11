@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Feel free to reach out, I'm always excited to connect over research or programming!</p>
-    <p>seatonullberg@gmail.com</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
