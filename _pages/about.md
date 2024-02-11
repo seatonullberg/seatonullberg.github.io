@@ -11,14 +11,14 @@ profile:
   more_info: >
     <p>Feel free to reach out, I'm always excited to connect over research or programming!</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm currently pursuing my PhD in Materials Science and Engineering at the [University of Florida](https://mse.ufl.edu/) under the advisement of [Prof. Simon R. Phillpot](https://scholar.google.com/citations?user=nK2OtUkAAAAJ&hl=en). My research is focused on atomistic modeling using techniques such as density functional theory and molecular dynamics to solve interesting problems in the realms of steel alloy corrosion, radionuclide sequestration, and high entropy Li-oxide battery materials.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm also deeply interested in machine learning methods and their application to the vast amounts of untapped data constantly being produced by chemists, physicists, and biologists.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time you can find me hacking away at my personal programming projects, getting my hands dirty restoring a vintage motorcycle, or gaming late into the night with my friends on Discord.
